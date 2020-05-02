@@ -10,3 +10,6 @@ Google Chrome'da Selenium WebDriver için chrome.driver.exe doayasını proje kl
 İyi eğlenceler...
 
 ![Image](https://i.ibb.co/gtKrxvW/Capture.png)
+
+![Image](https://i.ibb.co/rwv7SBZ/Capture2.png)
+
