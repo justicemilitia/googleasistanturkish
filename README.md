@@ -8,3 +8,5 @@ Google Chrome'da Selenium WebDriver için chrome.driver.exe doayasını proje kl
 Örnek Raspberry Pi ile uygulanabilir ve pinler söylenen kelimeye göre aktif edilerek bir röle tetiklenebilir. (hayal gücünüze kalmış)
 
 İyi eğlenceler...
+
+![Screenshot](https://drive.google.com/open?id=15xmHSdKhWb5utUG4EACOSbg8KETkJrBH)
